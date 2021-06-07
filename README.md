@@ -1,5 +1,7 @@
 # cygnss-for-sm
 
+Steps followed to retrieve SM from CyGNSS data over a 36 km grid (TxSON) using Artificial Neural Networks are given below. Our CyGNSS-derived SM product is also compared with TxSON in-situ data, SMAP and NASA's L3 SM product.
+
 1. Download CyGNSS data -> get_cygnss_raw_or.sh
 2. Extract CyGNSS data over a 36 km region (This can be changed within the file) -> within_36km.py
 3. Download NDVI -> MOD13A1 from us.earthdata.nasa (MODIS/TERRA Vegetation Indices 16 day L3 Global 500m SIN Grid V006
