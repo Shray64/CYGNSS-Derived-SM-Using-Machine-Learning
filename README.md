@@ -1,4 +1,4 @@
-# cygnss-for-sm
+# CYGNSS Derived SM Using Machine Learning
 
 Steps followed to retrieve SM from CyGNSS data over a 36 km grid (TxSON) using Artificial Neural Networks are given below. Our CyGNSS-derived SM product is also compared with TxSON in-situ data, SMAP and NASA's L3 SM product.
 
